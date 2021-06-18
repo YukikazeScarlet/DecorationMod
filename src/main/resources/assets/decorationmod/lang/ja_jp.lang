@@ -1,0 +1,15 @@
+#DecorationMod Japanese(JP) Language File
+
+tile.decorationmod.first_block.name=First Block
+tile.decorationmod.block_json_obj.name=Block Json OBJ
+tile.decorationmod.link16_atn.name=Link16 アンテナ
+tile.decorationmod.nolq_3d_esm.name=NOLQ-3D ESM
+tile.decorationmod.nora_1c.name=NORA-1C Xバンド衛星通信装置
+tile.decorationmod.norq_1.name=NORQ-1  Kuバンド衛星通信装置
+tile.decorationmod.norc_4b.name=NORC-4B インマルサット衛星通信装置
+tile.decorationmod.orn_6.name=ORN-6 タカン
+tile.decorationmod.usc_42.name=AN/USC-42 対米衛星通信装置
+tile.decorationmod.orq_1.name=ORQ-1 ヘリコプター・データリンク装置
+tile.decorationmod.ops_20.name=OPS-20 航海レーダー
+tile.decorationmod.ops_39.name=OPS-39 航海レーダー
+tile.decorationmod.spq_9b.name=SPQ-9B 対水上レーダー

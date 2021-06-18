@@ -1,0 +1,11 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "normal": [{
+            "model": "decorationmod:ops_24b.obj",
+            "textures": {
+                "#ops24_b": "decorationmod:blocks/ops_24b"
+            }
+        }]
+    }
+}

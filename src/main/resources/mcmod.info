@@ -1,0 +1,13 @@
+[
+{
+  "description": "Add decoration blocks into Minecraft.",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Yukikaze_Scarlet"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

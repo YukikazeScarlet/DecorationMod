@@ -1,0 +1,11 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "normal": [{
+            "model": "decorationmod:orq_1.obj",
+            "textures": {
+                "#None": "decorationmod:blocks/common1"
+            }
+        }]
+    }
+}

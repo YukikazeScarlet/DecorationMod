@@ -1,0 +1,15 @@
+#DecorationMod English(US) Language File
+
+tile.decorationmod.first_block.name=First Block
+tile.decorationmod.block_json_obj.name=Block Json OBJ
+tile.decorationmod.link16_atn.name=Link16 Antenna
+tile.decorationmod.nolq_3d_esm.name=NOLQ-3D ESM
+tile.decorationmod.nora_1c.name=NORA-1C
+tile.decorationmod.norq_1.name=NORQ-1
+tile.decorationmod.norc_4b.name=NORC-4B
+tile.decorationmod.orn_6.name=ORN-6
+tile.decorationmod.usc_42.name=AN/USC-42
+tile.decorationmod.orq_1.name=ORQ-1
+tile.decorationmod.ops_20.name=OPS-20
+tile.decorationmod.ops_39.name=OPS-39
+tile.decorationmod.spq_9b.name=SPQ-9B
